@@ -1,51 +1,28 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Convite para Magnifico Workshop sobre IA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Explorar IAs Generativas para criar imagem e texto, convidando para uma aula magnifica sobre IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei este prompt: Você é um designer profissional, vai criar um convite de uma página, imagens de religiosos (pastor e padres) como astronauta, para um workshop magnífico sobre IA, objetivo convencer público de religiosos para participar desse evento.
+
+Pedi alterações:
+Gostaria de alterar a cor de pele de alguns, a fim de que tenha 1 negro e 1 oriental, colocar uma bíblia na mão de quem está de terno.
+
+Escrever na imagem, texto como: Venha fazer parte desse grupo seleto de religiosos que vão ampliar sua habilidade com ferramentas de IA.
+cite alguns Benefícios de usar IA na geração de meditações 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+1º resultado: https://chatgpt.com/share/6787b5dd-230c-8005-b0fe-583ae2572e9b
+Resultado Final: https://chatgpt.com/c/6787b33c-5ebc-8005-98ae-ff3c3322685f
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+No ChatGPT, versão free, não consegui texto em Português
+Pedi novamente um slide, aí o texto veio em português, mas ele não trouxe a diversidade que coloquei no prompt. Aí tive que fazer muitos pedidos de ajustes.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
